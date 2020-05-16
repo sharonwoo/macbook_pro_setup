@@ -36,3 +36,4 @@ brew cask install firefox ungoogled-chromium telegram iterm2 blisk vlc transmiss
 ## Million dollar question: Pip or Conda? FML
 
 [Thank god I'm still on Mojave](https://stackoverflow.com/questions/58291108/conda-not-found-after-upgrading-to-macos-catalina).
+Installing Miniconda from .pkg and then creating a full environment seems to work fine now with zsh as shell. Use ```echo $SHELL``` to check it's indeed zsh that's in play.
