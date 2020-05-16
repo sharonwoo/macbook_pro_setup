@@ -12,7 +12,7 @@ Because this is the third logic board failure in a year.
 brew cask install firefox ungoogled-chromium telegram iterm2 blisk vlc transmission little-snitch visual-studio-code atom ... 
 ```
 * [A good, somewhat outdated list for manual installs](https://sourabhbajaj.com/mac-setup/Homebrew/Cask.html). Configure AWS-cli/Heroku etc as needed.
-* TODO: port over as a bash script (see [this](https://gist.github.com/brunofbrito/13c29c9b1f7a833066a98522d4b826f7)).
+* TODO: port over as a bash script (see [this](https://gist.github.com/brunofbrito/13c29c9b1f7a833066a98522d4b826f7)). Right now things are minimal enough that you don't really need it. 
 
 ## Configure Chromium with adblocker specials
 * Install [Chromium Web Store](https://ungoogled-software.github.io/ungoogled-chromium-wiki/faq#can-i-install-extensions-or-themes-from-the-chrome-webstore) and follow these instructions
@@ -29,3 +29,5 @@ brew cask install firefox ungoogled-chromium telegram iterm2 blisk vlc transmiss
 * Fantastical
 * Omnifocus 
 * Notability
+
+## Million dollar question: Pip or Conda? FML
