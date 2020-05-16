@@ -14,7 +14,7 @@ brew cask install firefox ungoogled-chromium telegram iterm2
 
 ## Configure Chromium with adblocker specials
 * Install [Chromium Web Store](https://ungoogled-software.github.io/ungoogled-chromium-wiki/faq#can-i-install-extensions-or-themes-from-the-chrome-webstore) and follow these instructions
-* Install plugins: Decentraleyes | UB Origin | UMatrix | [https://chrome.google.com/webstore/detail/next-step-for-trello/iajhmklhilkjgabejjemfbhmclgnmamf?hl=en](Next Step for Trello)
+* Install plugins: Decentraleyes | UB Origin | UMatrix | [Next Step for Trello](https://chrome.google.com/webstore/detail/next-step-for-trello/iajhmklhilkjgabejjemfbhmclgnmamf?hl=en)
 
 ## Configure iterm2 
 * ```brew install zsh```
