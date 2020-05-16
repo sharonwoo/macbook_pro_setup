@@ -31,3 +31,5 @@ brew cask install firefox ungoogled-chromium telegram iterm2 blisk vlc transmiss
 * Notability
 
 ## Million dollar question: Pip or Conda? FML
+
+[Thank god I'm still on Mojave](https://stackoverflow.com/questions/58291108/conda-not-found-after-upgrading-to-macos-catalina).
