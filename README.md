@@ -1,5 +1,9 @@
 # macbook_pro_setup
 Because this is the third logic board failure in a year.
+* Jun 2019: display replacement (orange splotches) 
+* Jan 2020: display and top case replacement
+* May 2020: logic board replacement (relating to TouchID and SMC reset)
+* Jul 2020: ?????? hardware failure after pressing the power button
 
 ## Install Brew
 
