@@ -5,6 +5,8 @@ Because this is the third logic board failure in a year.
 * May 2020: logic board replacement (relating to TouchID and SMC reset)
 * Jul 2020: ?????? hardware failure after pressing the power button
 
+25 Jul 2020: set up new 16" after replacement; collection of 15" on 28 Jul
+
 ## Install Brew
 
 ```
