@@ -19,7 +19,7 @@ brew cask install firefox ungoogled-chromium telegram iterm2 blisk vlc transmiss
 ```
 * [A good, somewhat outdated list for manual installs](https://sourabhbajaj.com/mac-setup/Homebrew/Cask.html). Configure AWS-cli/Heroku etc as needed.
 * TODO: port over as a bash script (see [this](https://gist.github.com/brunofbrito/13c29c9b1f7a833066a98522d4b826f7)). Right now things are minimal enough that you don't really need it. 
-* Note! easier to `brew cask install miniconda` than struggle with conda init zsh otherwise.
+* Note! easier to `brew cask install miniconda` than struggle with conda init zsh otherwise. Issues, though; https://stackoverflow.com/questions/42859781/best-practices-with-anaconda-and-brew
 
 ## Configure Chromium with adblocker specials
 * Install [Chromium Web Store](https://ungoogled-software.github.io/ungoogled-chromium-wiki/faq#can-i-install-extensions-or-themes-from-the-chrome-webstore) and follow these instructions
