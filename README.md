@@ -15,7 +15,7 @@ Because this is the third logic board failure in a year.
 
 ## Brew cask installs
 ```
-brew cask install firefox ungoogled-chromium telegram iterm2 blisk vlc transmission little-snitch visual-studio-code atom ... 
+brew cask install firefox ungoogled-chromium telegram iterm2 blisk vlc transmission little-snitch visual-studio-code background-music ... 
 ```
 * [A good, somewhat outdated list for manual installs](https://sourabhbajaj.com/mac-setup/Homebrew/Cask.html). Configure AWS-cli/Heroku etc as needed.
 * TODO: port over as a bash script (see [this](https://gist.github.com/brunofbrito/13c29c9b1f7a833066a98522d4b826f7)). Right now things are minimal enough that you don't really need it. 
